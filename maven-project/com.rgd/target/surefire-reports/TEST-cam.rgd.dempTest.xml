@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="cam.rgd.dempTest" time="0.006" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2022.1.4"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="18.0.2+9-61"/>
+    <property name="sun.boot.library.path" value="D:\install\java\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Myproject\Java\maven-project\com.rgd"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Myproject\Java\maven-project\com.rgd"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="18.0.2+9-61"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\rgd15\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="maven.ext.class.path" value="D:\install\idea\IntelliJ IDEA 2022.1.4\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\install\maven\apache-maven-3.8.6\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\install\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;D:\install\CUDA\v11.6\bin;D:\install\CUDA\v11.6\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\download\edge download\jdk-18.0.2\bin;D:\download\edge download\jdk-18.0.2\jre\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.1.1\;D:\install\CUDA\v11.6\bin;D:\install\CUDA\v11.6\include;D:\install\CUDA\v11.6\lib;D:\install\CUDA\v11.6\libnvvp;D:\install\Anaconda;D:\install\Anaconda\Scripts;D:\install\Anaconda\Library\bin;D:\install\Anaconda\Library\mingw-w64\bin;D:\download\vedio\ffmpeg-5.1-full_build-shared\bin;D:\install\maven\apache-maven-3.8.6\bin;D:\install\Anaconda;D:\install\Anaconda\Library\mingw-w64\bin;D:\install\Anaconda\Library\usr\bin;D:\install\Anaconda\Library\bin;D:\install\Anaconda\Scripts;C:\Users\rgd15\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="maven.conf" value="D:\install\maven\apache-maven-3.8.6/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\rgd15"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="user.name" value="rgd15"/>
+    <property name="java.class.path" value="D:\install\maven\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;D:\install\maven\apache-maven-3.8.6\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.1.4 -s D:\install\maven\apache-maven-3.8.6\conf\settings.xml install"/>
+    <property name="java.home" value="D:\install\java"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="18.0.2"/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\install\maven\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="cam.rgd.dempTest" name="testSay" time="0.006"/>
+</testsuite>
